@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Thika Road.kml</name>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Thika Road</name>
+		<Placemark>
+			<name>TR 1</name>
+			<LookAt>
+				<longitude>36.90577390159559</longitude>
+				<latitude>-1.210318180637899</latitude>
+				<altitude>0</altitude>
+				<heading>43.23065755710334</heading>
+				<tilt>21.46037109507876</tilt>
+				<range>240.707616987651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.90609372690057,-1.211075292186987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 2</name>
+			<LookAt>
+				<longitude>36.9175298247434</longitude>
+				<latitude>-1.202533787385183</latitude>
+				<altitude>0</altitude>
+				<heading>43.24623105567091</heading>
+				<tilt>30.0017743436596</tilt>
+				<range>395.128404384491</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.91751459031682,-1.202951694112016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 3</name>
+			<LookAt>
+				<longitude>36.92362041071343</longitude>
+				<latitude>-1.195957451178179</latitude>
+				<altitude>0</altitude>
+				<heading>43.07767459730577</heading>
+				<tilt>30.00122783667776</tilt>
+				<range>273.0538821475711</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.92333154503869,-1.196426217162323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 4</name>
+			<LookAt>
+				<longitude>36.93126929650563</longitude>
+				<latitude>-1.188028454818969</latitude>
+				<altitude>0</altitude>
+				<heading>0.05040193391113594</heading>
+				<tilt>28.02585523616949</tilt>
+				<range>141.9418856820141</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.93132459848015,-1.188102862887955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 5</name>
+			<LookAt>
+				<longitude>36.96209578029759</longitude>
+				<latitude>-1.166538920822445</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008430995497355858</heading>
+				<tilt>29.97792949892444</tilt>
+				<range>406.1385691564196</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.96369360222128,-1.166805881083396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 6</name>
+			<LookAt>
+				<longitude>36.96928923785769</longitude>
+				<latitude>-1.168754366463465</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006965228912711953</heading>
+				<tilt>29.97795113620123</tilt>
+				<range>410.9602274663361</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.9697953866125,-1.169280400436222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 7</name>
+			<LookAt>
+				<longitude>36.97275504458992</longitude>
+				<latitude>-1.171109445297098</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006016409385364537</heading>
+				<tilt>30.00057106192515</tilt>
+				<range>126.8016129523453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.97286951748044,-1.171327937044162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR 8</name>
+			<LookAt>
+				<longitude>36.97744464404528</longitude>
+				<latitude>-1.174305440739265</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008745579684233477</heading>
+				<tilt>25.31523811120269</tilt>
+				<range>62.57931666901809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.97757353162291,-1.174367790945132,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

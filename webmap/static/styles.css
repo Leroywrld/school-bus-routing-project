@@ -1,0 +1,50 @@
+
+.mothercontainer {
+    height: 720px;
+    width: 1100px;
+    background-color: #eee8da;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.containsmap {
+    height: 610px;
+    width: 1200px;
+    border-radius: 10px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+}
+
+.containsradio {
+    height: 56px;
+    width: 480px;
+    background-color: #FAF9F6;
+    position: absolute;
+    bottom: 15px;
+    border-radius: 10px;
+    left: 370px;
+}
+
+label {
+    font-family: 'Verdana', sans-serif;
+    font-size: small;
+    font-weight: 600;
+    color: #8D6A47;
+    margin-left: -3px;
+}
+
+input[type=radio] {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+body {
+    background-color: #eee8da;
+    height: 720px;
+    width: 1100px;
+}

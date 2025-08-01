@@ -1,0 +1,9 @@
+pandas
+geopandas
+numpy
+sqlalchemy
+requests
+psycopg2
+flask
+shapely
+openrouteservice

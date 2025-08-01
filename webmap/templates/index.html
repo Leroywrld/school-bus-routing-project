@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>schoolbusroutemappingproject</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    </head>
+    <body>
+        <div class="mothercontainer">
+            <div id="map" class="containsmap"></div>
+            <div class="containsradio">
+                <input type="radio" id="opt1" name="map_options" value="stops" checked>
+                <label for="opt1">Stops</label>
+
+                <input type="radio" id="opt2" name="map_options" value="routes">
+                <label for="opt2">Optimized Routes</label>
+            </div>
+        </div>
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        <script src="{{ url_for('static', filename='map.js') }}"></script>
+
+        
+    </body>
+</html>
